@@ -28,3 +28,9 @@
     margin: 0px;
     color-interpolation-filters: #0f0f0f;
 }
+
+.row-history {
+    margin: 0px;
+    padding: 20px 0px 20px 0px;
+    /* min-height: 400px; */
+}
